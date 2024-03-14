@@ -1,4 +1,7 @@
-<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
-  <text x="10" y="50" font-family="Arial" font-size="30" fill="black">Hi, I'm Dalyll</text>
-  <animate attributeName="x" from="10" to="200" dur="3s" repeatCount="indefinite" />
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Animation pour le fond coloré -->
+  <rect x="0" y="0" width="400" height="100" fill="#6cb2eb">
+    <animate attributeName="fill" from="#6cb2eb" to="#f0f0f0" dur="2s" repeatCount="indefinite" />
+  </rect>
+  <text x="50%" y="60%" font-family="Arial" font-size="20" fill="#ffffff" text-anchor="middle">Hi, I'm Dalyll 👋</text>
 </svg>
