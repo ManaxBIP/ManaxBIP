@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dalyll</h1>
+<head>
+  <link rel="stylesheet" type="text/css" href="github-profile.css">
+</head>
+<span class="animated-text">Hi 👋, I'm Dalyll</span>
 <h3 align="center">A passionate backend developer from France🇫🇷</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
