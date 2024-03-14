@@ -1,6 +1,7 @@
 <div id="name" align="center">
   <img src="name.svg"/>
 </div>
+<h3>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</h3>
 <h3 align="left">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤAbout me</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
