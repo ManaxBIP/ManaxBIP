@@ -1,10 +1,10 @@
 <div id="name" align="center">
   <img src="name.svg"/>
 </div>
-<h3 align="center">A passionate backend developer from France 🇫🇷</h3>
+<h3 align="center">A passionate full stack developer from France 🇫🇷</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently studying at **Toulouse Ynov Campus (currently in bachelor 2)**
+- 🔭 I’m currently studying at **Toulouse Ynov Campus (currently in bachelor 3)**
 
 - 📫 How to reach me **dalyll.reguia@gmail.com**
 
