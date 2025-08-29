@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full stack developer from France 🇫🇷</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently studying at **Toulouse Ynov Campus (currently in bachelor 3)**
+- 🔭 I’m currently studying at **Toulouse Ynov Campus (currently in M1 expert Fullstack)**
 
 - 📫 How to reach me **dalyll.reguia@gmail.com**
 
