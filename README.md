@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **dalyll.reguia@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
